@@ -1,0 +1,13 @@
+<DOCTYPE!>
+<html lang="en>
+<head>
+<title>Quotes.</title>
+<meta charset="utf-8">
+</head>
+<body>
+<p>Quotes for daily purposes.</p>
+<h1>“Don't let yesterday take up too much of today.”</h1>
+<h3>“You learn more from failure than from success."</h3>
+<h6>“If you are working on something that you really care about, you don't have to be pushed."</h6>
+</body>
+</html>
